@@ -101,9 +101,8 @@ body{
 .hero{
 
     height:100vh;
-
-    background-image:
-    url("./assets/city.jpg");
+    background-color:#04273a;
+    background-image: url("./assets/city.jpg");
 
     background-size:cover;
     background-position:center;
